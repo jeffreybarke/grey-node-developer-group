@@ -1,0 +1,32 @@
+{
+	"name": "bing-cli-client",
+	"description": "A simple command-line client for Bing.com.",
+	"version": "0.1.0",
+	"author": {
+		"name": "Jeffrey Barke",
+		"email": "github@jeffreybarke.net>"
+	},
+	"keywords": [
+		"cli",
+		"search",
+		"bing"
+	],
+
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jeffreybarke/grey-node-developer-group.git"
+	},
+	"private": true,
+
+	"main": "bing-cli.js",
+
+	"engines": {
+		"node": ">=0.10"
+	},
+
+	"dependencies": {
+	},
+
+	"devDependencies": {
+	}
+}
